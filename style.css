@@ -1,0 +1,33 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+    background-image:url("https://abraofilho.blog.br/wp-content/uploads/2022/08/converter-dolar-em-real.png");
+    background-color: white;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+ 
+.container2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#MeuBotao {
+    background-color: green;
+    color: rgba(255, 255, 255, 0.938);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+
+.page-title{
+    color: white;
+    margin: 0 0 5px;
+}
